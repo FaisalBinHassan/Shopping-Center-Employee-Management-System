@@ -1,7 +1,3 @@
-/*
-
-    - -  Similar to LinkedLists class - -
- */
 package ASSIGNMENTs.Assignment01;
 
 import java.util.LinkedList;
