@@ -1,7 +1,6 @@
 # Shopping-Center-Employee-Management-System
 
-The goal of this program is to develop a monitoring system for employee assignment to specific product types in shopping center branches. The primary objective of this program is to implement a linked list. The secondary objective is to practice with File I/O.
-
+The goal of this program is to develop a monitoring system for employee assignment to specific product types in shopping center branches. The primary objective of this program is to implement a linked list. 
 
 ## Inputs 
 
