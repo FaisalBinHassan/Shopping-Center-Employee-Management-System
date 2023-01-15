@@ -2,16 +2,6 @@
 
     - -  MAIN Class -  - -
 
-/*
-
-CPCS 204 - ASSIGNMENT #1 | Shopping Center Employee Management System
-Name : Faisal Bin Hassan
-ID No : 2136143
-Course : CPCS 204 - F1
-Email : fabdulazizbinhassan@stu.kau.edu.sa
-Lab Instructer Name : Dr Ahmed Almutary
-
-
 --------- CODE EXPLANATION ---------
 
 This code manages to solve an employee shopping certre data storing.
@@ -25,9 +15,6 @@ PART II :
 ==> PRINTING PHASE : This methods takes all data from all sectored methods, and prints data to the output file.
 
 -------------------------------------
-
-
-
  */
 
 
