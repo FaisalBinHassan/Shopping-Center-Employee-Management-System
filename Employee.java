@@ -1,11 +1,3 @@
-/*
-
-    - -  Similar to LLnode class - -
-
-
- */
-
-
 package ASSIGNMENTs.Assignment01;
 
 public class Employee {
